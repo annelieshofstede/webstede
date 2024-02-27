@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - Introduction
+    - Data Science - ITANN
   sceneTemplate: templates/note.md
   ignoredFiles: []
 ---
