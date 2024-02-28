@@ -9,3 +9,5 @@ tags:
 
 Mellisa de Korte's datetable:
 
+I'm glad this topic is not new for me because I trained my basic PowerBi skills in PowerUp. One of the first steps was to understand and work with a solid datetable with off set options. 
+
