@@ -11,5 +11,5 @@ Brian Julius on LinkedIn - Super Six: https://www.linkedin.com/posts/brianjulius
 2. Learn and Apply Roche's Maxim
 3. Master Basic Power Query Transformations
 4. Learn the Dax Functions that matter most
-5. Learn the Offsets Approach to Time Intelligence
+5. [[Super Six - (5) Learn the Offsets Approach to Time Intelligence]]
 6. Learn and Apply the [#IBCS](https://www.linkedin.com/feed/hashtag/?keywords=ibcs&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7047604247323926528) Framework for Data Visualization
