@@ -2,6 +2,8 @@
 title: Super Six - (5) Learn the Offsets Approach to Time Intelligence
 draft: false
 tags:
+  - powerbi
+  - supersix
 ---
 # Offset Magic: Make DAX Time Intelligence Disappear | Business Intelligence Summit Session 15
 
